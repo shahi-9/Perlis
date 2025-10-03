@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-00:32:39	172/172	---M--	401	error ('Unauthorized')	text/html	date:Fri,%2003%20Oct%202025%2016:32:42%20GMT	https://calm-quetzal.10web.cloud/robots.txt		(from )
-00:32:39	172/172	---M--	401	error ('Unauthorized')	text/html	date:Fri,%2003%20Oct%202025%2016:32:43%20GMT	https://calm-quetzal.10web.cloud/	C:/Users/badrf/Desktop/clone1/calm-quetzal.10web.cloud/index.html	(from )
